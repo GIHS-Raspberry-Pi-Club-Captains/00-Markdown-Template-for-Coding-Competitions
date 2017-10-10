@@ -20,7 +20,7 @@ exampleFunction(input) ==> output
 ```
 
 ## Extension
-Explain how to run the automated tests for this system
+Add any extension work if applicable
 
 ### Acknowledgments
 Make reference to what this week's challenge was originaly based upon
