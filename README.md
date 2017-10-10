@@ -1,0 +1,1 @@
+# 00-Markdown-Template-for-Coding-Competitions
