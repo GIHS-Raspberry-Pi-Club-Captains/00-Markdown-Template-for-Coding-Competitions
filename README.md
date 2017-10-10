@@ -2,12 +2,10 @@
 
 Write an introduction (background story; some context or reason for doing the challenge
 
+## Overview
 > For this week's challenge, you must ...
 
 Add any extra notes, some definitions, other information or external links
-
-## Overview
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 #### Input:
 Add the conditions of any input to the functions here (is input always in lowercase, will there only be numerals, etc.)
@@ -24,5 +22,5 @@ exampleFunction(input) ==> output
 ## Extension
 Explain how to run the automated tests for this system
 
-## Acknowledgments
+### Acknowledgments
 Make reference to what this week's challenge was originaly based upon
